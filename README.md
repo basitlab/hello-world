@@ -1,5 +1,6 @@
 # hello-world
-Just another repository. It's my first one I am making.
+Hello,
 
-Hi there!
-It's me abd. I loved it here. It's looks quite interesting to learn about github after wondering about if for years.
+I am Basit. I have studied B.Tech in Mechatronics from India. This was just an amazing experience for me. From learning about the labs, to learning about the culture, the experience was mind boggling for me.
+
+Thanks for your time reading this.
